@@ -32,23 +32,23 @@ What variable(s) are neither targets nor features, and should be removed from th
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 * In V1, I used 12 neurons in layer 1, 9 in layer 2, 6 in layer 3 and, 3 in layer 4. I used relu for my activation function. I wanted to try to use 4 layers, in intervals of 3 to see if it would optimize results.
-![Resources/v1model.PNG](Resources/v1model.PNG)
+![Resources/v1model.png](Resources/v1model.png)
 * The results were 73% accuracy
-![Resources/v1results.PNG](Resources/v1results.PNG)
+![Resources/v1results.png](Resources/v1results.png)
 
 ---
 
 * In V2, I used 3 layers this time, keeping with the 3 neuron intervals. This time, I changed the output to sigmioid activation.
-![Resources/v2model.PNG](Resources/v2model.PNG)
+![Resources/v2model.png](Resources/v2model.png)
 * The results were 73% accurate. Before rounding, it has decreased from the previous model
-![Resources/v2results.PNG](Resources/v2results.PNG)
+![Resources/v2results.png](Resources/v2results.png)
 
 ---
 
 * In v3, narrowed down to 2 layers, only using 3 and 6 neurons. Kept the same Activation from last model
-![Resources/v3model.PNG](Resources/v3model.PNG)
+![Resources/v3model.png](Resources/v3model.png)
 * The results were, again, 73%
-![Resources/v3results.PNG](Resources/v3results.PNG)
+![Resources/v3results.png](Resources/v3results.png)
 
 ---
 
