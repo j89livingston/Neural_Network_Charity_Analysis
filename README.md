@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-We were tasked to help the company Alphabet Soup create a binary classifier that is capable of predicting whether applicants will be successful if funded by the business. Using our knowledge of neural networks and machine learning, we will attempt to produce accurate results. 
+We were tasked to help a company to create a binary classifier that is capable of predicting whether applicants will be successful if funded by the business. Using our knowledge of neural networks and machine learning, we will attempt to produce accurate results. 
 
 ---
 
